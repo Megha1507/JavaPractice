@@ -1,6 +1,6 @@
 package javaPracticeExample;
 
-public class arrayCopyMethod {
+public class Array_arrayCopy {
 
 	public static void main(String[] args)
 	{

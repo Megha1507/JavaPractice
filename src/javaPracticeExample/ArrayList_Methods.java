@@ -2,7 +2,7 @@ package javaPracticeExample;
 
 import java.util.ArrayList;
 
-public class ArrayListAndMethods {
+public class ArrayList_Methods {
 
 	public static void main(String[] args) 
 	{
@@ -36,6 +36,7 @@ public class ArrayListAndMethods {
 		
 		System.out.println(arr.contains("E")); // True
 		System.out.println(arr.contains("K")); // False
+		
 		
 	}
 
