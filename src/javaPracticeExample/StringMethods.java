@@ -81,6 +81,13 @@ public class StringMethods
 		String S2 = "The number is: "+ (123 + 456);
 		
 		System.out.println(S2);
+		
+		
+	// check the String Starts with a character
+		 
+		String s3="java string split method by javatpoint";  
+		System.out.println(s3.startsWith("ja"));  // true if string is presents
+		System.out.println(s3.startsWith("java string"));   
 	}
 
 }
